@@ -20,11 +20,13 @@ namespace LeitorDeExcel.LeitorExcell.Repository
 
                 try
                 {
+                    if(timesModels != null){
                     connection.Open();
                     SqlCommand cmd = new SqlCommand(delete, connection);
                     cmd.CommandType = CommandType.Text;
                     cmd.ExecuteNonQuery();
                     connection.Insert(timesModels);
+                    }
                 }
                 catch (System.Exception ex)
                 {
