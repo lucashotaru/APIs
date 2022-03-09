@@ -1,3 +1,4 @@
+using CriadorExcel.LeitorExcell.Models;
 using LeitorDeExcel.LeitorExcell.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,6 +29,7 @@ namespace LeitorDeExcel
             });
 
             services.AddTransient<LeitorExcellRepository>();
+            services.AddTransient<CBFWebScrapingRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

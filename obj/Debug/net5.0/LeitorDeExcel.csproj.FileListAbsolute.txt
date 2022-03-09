@@ -76,3 +76,6 @@ C:\Users\Lucas\Desktop\LeitorDeExcel\obj\Debug\net5.0\refint\LeitorDeExcel.dll
 C:\Users\Lucas\Desktop\LeitorDeExcel\obj\Debug\net5.0\LeitorDeExcel.pdb
 C:\Users\Lucas\Desktop\LeitorDeExcel\obj\Debug\net5.0\LeitorDeExcel.genruntimeconfig.cache
 C:\Users\Lucas\Desktop\LeitorDeExcel\obj\Debug\net5.0\ref\LeitorDeExcel.dll
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\Newtonsoft.Json.dll

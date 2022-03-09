@@ -15,7 +15,7 @@ namespace LeitorDeExcel.LeitorExcell.Controllers
     public class LeitorCSVController : ControllerBase
     {
         [Consumes("multipart/form-data")]
-        [HttpPost("input-file")]
+        [HttpPost("importar-jogos-cbf")]
         public ActionResult InputFile(IFormFile cbfInfo)
         {
             var times = LeitorExcellRepository.LeitorExcel(LeitorExcellRepository.LerStreamEConverterEmMemory(cbfInfo));
