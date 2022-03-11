@@ -1,0 +1,27 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  margin: 0px 16px 0px 16px;
+  float: left;
+}
+
+.logo__img{
+  height: 110%;
+}
+
+.header-menu {
+  line-height: 64px;
+}
+
+.sider-menu {
+  height: 100%;
+  border-right: 0;
+}
+
+.inner-layout {
+  padding: 0 24px 24px;
+}
+
+.admin{
+  float: right;
+}

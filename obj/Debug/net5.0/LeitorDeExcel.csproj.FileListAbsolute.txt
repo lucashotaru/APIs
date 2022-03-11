@@ -79,3 +79,9 @@ C:\Users\Lucas\Desktop\LeitorDeExcel\obj\Debug\net5.0\ref\LeitorDeExcel.dll
 C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\CsvHelper.dll
 C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\HtmlAgilityPack.dll
 C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\ProjetoCBFWebAngular\angular.json
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\ProjetoCBFWebAngular\package-lock.json
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\ProjetoCBFWebAngular\package.json
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\ProjetoCBFWebAngular\tsconfig.app.json
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\ProjetoCBFWebAngular\tsconfig.json
+C:\Users\Lucas\Desktop\LeitorDeExcel\bin\Debug\net5.0\ProjetoCBFWebAngular\tsconfig.spec.json

@@ -1,0 +1,28 @@
+<nz-layout>
+  <nz-header>
+    <div class="logo">
+      <img class="logo__img" src="./../../../assets/logo.png" alt="" />
+    </div>
+    <ul nz-menu nzTheme="dark" nzMode="horizontal" class="header-menu">
+      <li nz-submenu nzIcon="" nzTitle="Tabelas">
+        <ul>
+          <li nz-submenu nzTitle="Campeonato Brasileiro">
+            <ul>
+              <li nz-menu-item>Série A</li>
+              <li nz-menu-item>Série B</li>
+              <li nz-menu-item>Série C</li>
+              <li nz-menu-item>Série D</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="admin" nz-submenu nzIcon="user" nzTitle="Administração" routerLink="">
+        <ul>
+          <li nz-menu-item routerLink="ImportarTabela">Upload Tabela</li>
+          <li nz-menu-item routerLink="">Download Tabela</li>
+        </ul>
+      </li>
+    </ul>
+  </nz-header>
+</nz-layout>
+<router-outlet></router-outlet>
